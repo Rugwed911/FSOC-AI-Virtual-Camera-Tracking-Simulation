@@ -34,7 +34,7 @@ The simulation combines:
 ## Demonstration
 
 [Watch the simulation video]
-https://drive.google.com/drive/folders/102QPLsQ9qqFJ8QGffESyW2B_VglK2Tzq?usp=sharing
+https://drive.google.com/drive/folders/1ai_qCmDpSA7zfXWUK9oL8JuTqu0dwYBP?usp=sharing
 
 ## Project Notebook
 
@@ -42,5 +42,5 @@ https://drive.google.com/drive/folders/102QPLsQ9qqFJ8QGffESyW2B_VglK2Tzq?usp=sha
 https://colab.research.google.com/drive/1gS067e92a0f0jQh9fF7vkfhQwj8mRCEb?usp=sharing
 
 ## Documentation
-[FSOC_Simulation_Final_Data.pdf](https://github.com/user-attachments/files/33051177/FSOC_Simulation_Final_Data.pdf)
+https://drive.google.com/drive/folders/1jAOzSdh0AUeit2kwHjoklQmtocLAnpnn?usp=sharing
 
