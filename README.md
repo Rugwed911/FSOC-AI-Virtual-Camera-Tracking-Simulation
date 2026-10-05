@@ -42,4 +42,5 @@ https://drive.google.com/file/d/1oQAwY9Fyr9WVFjuY2QHdQe-CEQ_0k033/view?usp=shari
 https://colab.research.google.com/drive/1gS067e92a0f0jQh9fF7vkfhQwj8mRCEb?usp=sharing
 
 ## Documentation
-  [FSOC_Simulation_Final_Data_Black_Theme.pdf](https://github.com/user-attachments/files/33051105/FSOC_Simulation_Final_Data_Black_Theme.pdf)
+[FSOC_Simulation_Final_Data.pdf](https://github.com/user-attachments/files/33051177/FSOC_Simulation_Final_Data.pdf)
+
